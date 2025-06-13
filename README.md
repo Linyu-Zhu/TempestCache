@@ -1,8 +1,4 @@
 # TempestCache
-
-
-
-
 TempestCache: Adaptive Cache Intelligence for the Modern Data Storm
 
 ##### A Lightweight, Pattern-Aware Cache Framework with Coordinated Hot Data Management
